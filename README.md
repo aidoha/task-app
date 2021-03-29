@@ -1,2 +1,2 @@
 # task-app
-Node js, MongoDB
+Node js, MongoDB, Mongoose, Express
